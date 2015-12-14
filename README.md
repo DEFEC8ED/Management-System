@@ -6,4 +6,4 @@ Include functions as:
 - Find a specific record using keyword - could be name, surname, ID.
 - Delete student from file according to its ID. For example --Delete 1: (remove student with ID: 1)
 
-More functions will comes later, maybe. This was made mainly as training of saving input into file and 'deleting' random record from actual file.
+More functions will comes later, maybe. This was made mainly as training of saving input into file and 'deleting' specific record from actual file.
