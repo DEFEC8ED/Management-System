@@ -90,7 +90,7 @@ char adding_ch(void)
 			exit(1);
 		}
 		printf("Adding %d. student\n", i);
-		while(getchar() != '\n');
+		cleantime();
 
 		printf("Firstname: ");
 		fgets(student[i].firstname, 128, stdin);
